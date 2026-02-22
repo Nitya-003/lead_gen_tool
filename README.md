@@ -96,4 +96,8 @@ Contributions are welcome during the competition period! Please see `CONTRIBUTIN
 This version of the project is released under the **MIT License**. Future proprietary versions will be subject to different commercial licensing terms.
 
 ---
+
+**Community Standards:** Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
+---
 *Created for [Apertre 3.0](https://apertre.resourcio.in) Feb - Mar 2026.*
